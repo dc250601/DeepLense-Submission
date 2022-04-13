@@ -1,0 +1,8 @@
+*.csv
+*.npy
+*cp*
+*common_task
+*Deeplense_Specific_III
+*Data/
+*.jpg
+*.ipynb_checkpoints*
